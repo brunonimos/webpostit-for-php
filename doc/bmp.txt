@@ -1,0 +1,25 @@
+BMP é mais viável:
+-A gravação de letras é feita em horizontal, ou seja da direita para a esquerda;
+-Uma gravação de uma linha de imagem pode gravar uma ou mais partes de 
+várias letras que estejam no caminho;
+-Fazer um map em xml de cada conjuto de hexes e lenght (distância entre um 
+bloco de hexes e outro);
+-Definir que, se uma distância for x porcento menor que a distância máxima, então
+não é uma segunda letra que vem, mas sim uma perna da mesma letra.
+-Definir que, se a distância for igual, x porcento menor com limite ou maior, então
+é a próxima letra que vem.
+Exemplo:
+Letra A em imagem de 300px por 300px.
+Distância 1=28, próximo bloco=perna.
+Distância 2=47, próximo bloco=letra.
+Distância 3=28, próximo bloco=perna.
+Distância 4=57, próximo bloco=letra.
+Distância 5=26, próximo bloco=perna.
+Distância 6=59, próximo bloco=letra.
+-Adicionar no começo de cada bloco de hexe o identificador da letra (hexes de
+61 à 7a [ver tabela de hexes]) a fim de facilitar a leitura dentro da imagem;
+
+Dados importantes:
+Medida width:100/250 px
+Início: hex 1078*2
+Primeiro caractere 261.978*2

@@ -1,0 +1,58 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: #ff6a00; }
+
+.addbutton {
+  height: 2em;
+}
+
+.division {
+  display: inline-block;
+  margin-top: 2.0em;
+  margin-left: 1.0em;
+  max-width: 10em;
+  max-height: 10em;
+}
+
+.postit {
+  height: 10em;
+  width: 10em;
+}
+
+.posted {
+  margin-top:0.5em;
+  margin-left:0.5em;
+  margin-bottom: 0.5em;
+  height: 5em;
+  width: 5em;
+  cursor: move;
+}
+
+.domain {
+  max-width: 30%;
+  margin-top: -97%;
+  margin-left: 35%;
+}
+
+.postittext {
+  max-width: 95%;
+  margin-left: 4%;
+  margin-top: -15%;
+  border-color: black;
+  border-radius: 1.0em;
+  border-style: outset;
+  background-color: rgba(100,100,100,0.3);
+}
+
+.postitbutton {
+  max-width: 30%;
+  margin-top: -50%;
+  margin-left: 35%;
+}
+
+.posted:hover{
+  opacity: 0.5;
+  background-color: rgba(100,100,100,0.5);
+}
+
+/*# sourceMappingURL=style.css.map */

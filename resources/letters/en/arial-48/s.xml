@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<letter alignfix="1.0" startingfix="20" initialhex="522386" initialpos="100px,250px" lastchild="597610" font="arial" size="48" indent="100">
+
+<line>
+<hex hexa="0c0805040100000000000405090d"></hex>
+<dist decimal="1564"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0b0500000000000000000000000000000002080f"></hex>
+<dist decimal="1554"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0b02000000000000000000000000000000000000000108"></hex>
+<dist decimal="1548"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0f050000000000000000000000000000000000000000000000030d"></hex>
+<dist decimal="1540"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0d0300000000000000000000000000000000000000000000000000010d"></hex>
+<dist decimal="1538"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0f01000000000000000002070a0c"></hex>
+<dist decimal="8"></dist>
+<hex hexa="0e0c080300000000000000010d"></hex>
+<dist decimal="1536"></dist>
+</line>
+
+<line>
+<hex hexa="0300000000000000040c"></hex>
+<dist decimal="24"></dist>
+<hex hexa="0e06000000000000030f"></hex>
+<dist decimal="1532"></dist>
+</line>
+
+<line>
+<hex hexa="08000000000000010b"></hex>
+<dist decimal="32"></dist>
+<hex hexa="0c01000000000008"></hex>
+<dist decimal="1530"></dist>
+</line>
+
+<line>
+<hex hexa="0e010000000000030e"></hex>
+<dist decimal="36"></dist>
+<hex hexa="0d0100000000010f"></hex>
+<dist decimal="1528"></dist>
+</line>
+
+<line>
+<hex hexa="060000000000010e"></hex>
+<dist decimal="40"></dist>
+<hex hexa="09000000000009"></hex>
+<dist decimal="1528"></dist>
+</line>
+
+<line>
+<hex hexa="0100000000000a"></hex>
+<dist decimal="44"></dist>
+<hex hexa="010000000003"></hex>
+<dist decimal="1526"></dist>
+</line>
+
+<line>
+<hex hexa="0b000000000002"></hex>
+<dist decimal="46"></dist>
+<hex hexa="060000000000"></hex>
+<dist decimal="1526"></dist>
+</line>
+
+<line>
+<hex hexa="07000000000009"></hex>
+<dist decimal="46"></dist>
+<hex hexa="0800000000000c"></hex>
+<dist decimal="1524"></dist>
+</line>
+
+<line>
+<hex hexa="0400000000000e"></hex>
+<dist decimal="46"></dist>
+<hex hexa="0800000000000c"></hex>
+<dist decimal="1526"></dist>
+</line>
+
+<line>
+<hex hexa="0400000000000e"></hex>
+<dist decimal="46"></dist>
+<hex hexa="0800000000000c"></hex>
+<dist decimal="1524"></dist>
+</line>
+
+<line>
+<hex hexa="010000000001"></hex>
+<dist decimal="48"></dist>
+<hex hexa="0700000000000c"></hex>
+<dist decimal="1524"></dist>
+</line>
+
+<line>
+<hex hexa="000000000004"></hex>
+<dist decimal="48"></dist>
+<hex hexa="0200000000000d"></hex>
+<dist decimal="1582"></dist>
+</line>
+
+<line>
+<hex hexa="0a000000000000"></hex>
+<dist decimal="1582"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0d01000000000004"></hex>
+<dist decimal="1580"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="09010000000000000a"></hex>
+<dist decimal="1576"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0a0200000000000000010f"></hex>
+<dist decimal="1568"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0f0a06010000000000000000000b"></hex>
+<dist decimal="1564"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0c080300000000000000000000000006"></hex>
+<dist decimal="1558"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0c080400000000000000000000000000000006"></hex>
+<dist decimal="1554"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0b0601000000000000000000000000000000000008"></hex>
+<dist decimal="1550"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0e0601000000000000000000000000000000000000040d"></hex>
+<dist decimal="1548"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0f0700000000000000000000000000000000000000050c"></hex>
+<dist decimal="1550"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0d020000000000000000000000000000000001050a0f"></hex>
+<dist decimal="1552"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0d01000000000000000000000000000004080c"></hex>
+<dist decimal="1558"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0e01000000000000000000000005090c"></hex>
+<dist decimal="1566"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="04000000000000000001070b"></hex>
+<dist decimal="1572"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0c00000000000000040b"></hex>
+<dist decimal="1578"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0600000000000009"></hex>
+<dist decimal="1582"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="01000000000008"></hex>
+<dist decimal="1582"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0e000000000002"></hex>
+<dist decimal="1584"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0c000000000007"></hex>
+<dist decimal="42"></dist>
+<hex hexa="020000000004"></hex>
+<dist decimal="1530"></dist>
+</line>
+
+<line>
+<hex hexa="0c000000000008"></hex>
+<dist decimal="40"></dist>
+<hex hexa="0f000000000004"></hex>
+<dist decimal="1530"></dist>
+</line>
+
+<line>
+<hex hexa="0c000000000008"></hex>
+<dist decimal="40"></dist>
+<hex hexa="0b000000000007"></hex>
+<dist decimal="1532"></dist>
+</line>
+
+<line>
+<hex hexa="000000000006"></hex>
+<dist decimal="40"></dist>
+<hex hexa="0600000000000a"></hex>
+<dist decimal="1532"></dist>
+</line>
+
+<line>
+<hex hexa="0300000000010f"></hex>
+<dist decimal="36"></dist>
+<hex hexa="0e0000000000000f"></hex>
+<dist decimal="1532"></dist>
+</line>
+
+<line>
+<hex hexa="09000000000006"></hex>
+<dist decimal="36"></dist>
+<hex hexa="03000000000006"></hex>
+<dist decimal="1534"></dist>
+</line>
+
+<line>
+<hex hexa="0f01000000000006"></hex>
+<dist decimal="30"></dist>
+<hex hexa="0f060000000000000e"></hex>
+<dist decimal="1536"></dist>
+</line>
+
+<line>
+<hex hexa="08000000000000050e"></hex>
+<dist decimal="24"></dist>
+<hex hexa="0c0200000000000007"></hex>
+<dist decimal="1540"></dist>
+</line>
+
+<line>
+<hex hexa="030000000000000005090c0e"></hex>
+<dist decimal="8"></dist>
+<hex hexa="0d0b070200000000000000030f"></hex>
+<dist decimal="1540"></dist>
+</line>
+
+<line>
+<hex hexa="0f03000000000000000000000000000000000000000000000000030f"></hex>
+<dist decimal="1544"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0f0400000000000000000000000000000000000000000000040f"></hex>
+<dist decimal="1550"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0901000000000000000000000000000000000000010a"></hex>
+<dist decimal="1556"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0f09020000000000000000000000000000030a0f"></hex>
+<dist decimal="1564"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+<line>
+<hex hexa="0e09060401000000000204070a0e"></hex>
+<dist decimal="0"></dist>
+<hex hexa="nulo"></hex>
+<dist decimal="nulo"></dist>
+</line>
+
+</letter>
