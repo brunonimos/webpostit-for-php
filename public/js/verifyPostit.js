@@ -6,7 +6,7 @@ var postitconfig="verify=user.application";
 request.open("POST","../resources/postitload.php");
 request.setRequestHeader("Content-type","application/x-www-form-urlencoded");
 request.onload=function(){
-if(request.status==200){
+if(request.status==200 && request.responseText!==""){
 var postitString=JSON.stringify(eval("("+request.responseText+")"));
 var postitJSON=JSON.parse(postitString);
 for(var key in postitJSON){
@@ -41,7 +41,6 @@ section.item(i).parentNode.appendChild(division);
 }
 }
 }
-//Receive JSON with srcs and load postit in its section
 }
 };
 request.send(postitconfig);
