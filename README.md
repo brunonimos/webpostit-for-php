@@ -1,7 +1,7 @@
 ﻿=============Web Post-it for PHP=============
 
 ##Introduction.
-This php class takes a given string and writes on bitmaps bmp images using the bin to hex methods.
+This php class takes a given string and writes it on bitmaps bmp images using the bin to hex methods.
 
 -Each post-it can be saved as bmp;
 
