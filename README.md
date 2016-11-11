@@ -5,7 +5,7 @@ This php class takes a given string and writes it on bitmaps bmp images using th
 
 -Each post-it can be saved as bmp;
 
--The Bitmaps images are generated in public/posted/user.application/[Section chosen]/[color chosen-string data].bmp
+-The Bitmaps images are generated in public/posted/user.application/[Section chosen]/[color chosen-string data].bmp;
 
 -Append post-it on any of sections;
 
