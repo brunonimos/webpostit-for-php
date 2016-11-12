@@ -4,7 +4,16 @@ function inprivate(trigger){
 trigger.form.addEventListener("submit",function(e){
 e.preventDefault();
 var request=new XMLHttpRequest();
-var postitconfig="domain="+trigger.form.domain.value+"&color="+trigger.form.color.value+"&string="+trigger.form.string.value+"";
+var postitconfig=null;
+if(Object.prototype.toString.call(trigger.form.string)==='[object RadioNodeList]'){
+for(var key in trigger.form.string){
+if(typeof trigger.form.string[key].value!=="undefined" && trigger.form.string[key].value!==""){
+postitconfig="domain="+trigger.form.domain[key].value+"&color="+trigger.form.color[key].value+"&string="+trigger.form.string[key].value+"";
+}
+}
+}else{
+postitconfig="domain="+trigger.form.domain.value+"&color="+trigger.form.color.value+"&string="+trigger.form.string.value+"";
+}
 request.open("POST","../resources/letters.php");
 request.setRequestHeader("Content-type","application/x-www-form-urlencoded");
 request.onload=function(){
